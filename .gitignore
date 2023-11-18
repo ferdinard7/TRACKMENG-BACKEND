@@ -28,7 +28,8 @@ jspm_packages/
 .env
 
 # macOS
-.DS_Store
+.DS_Stored client
+
 
 # Windows
 Thumbs.db
